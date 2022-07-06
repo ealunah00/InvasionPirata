@@ -77,6 +77,7 @@ function setup() {
     var img = waterSplashSpritesheet.get(pos.x, pos.y, pos.w, pos.h);
     waterSplashAnimation.push(img);
   }
+  
 }
 
 function draw() {
